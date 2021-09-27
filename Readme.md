@@ -55,9 +55,14 @@ Los resultados que mostramos son para embeddings entrenados con una ventana de t
 El vocabulario generado por el embedding contiene 4907 palabras, lo cual evidencia que la mayoría de las palabras se usan muy muy poco.
 
 Algunos resultados interesantes y poco interesantes:
+
+
 ![image.png](images/word2vec_size=20__window=7__min_count=5__epochs=200_arte.jpeg)
+
 ![image.png](images/word2vec_size=20__window=7__min_count=5__epochs=200_mujer.jpeg)
+
 ![image.png](images/word2vec_size=20__window=7__min_count=5__epochs=200_color.jpeg)
+
 ![image.png](images/word2vec_size=20__window=7__min_count=5__epochs=200_pincel.jpeg)
 
 
